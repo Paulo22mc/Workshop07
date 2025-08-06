@@ -22,6 +22,7 @@
             <p class="lead">Esta es una página de inicio hecha con Laravel y Bootstrap.</p>
             <hr>
             <p class="fs-4 text-primary">Paulo & Angie</p>
+            <p class="mt-4">Nombre de la base de datos: <strong>{{ $database }}</strong></p>
         </div>
     </div>
 
