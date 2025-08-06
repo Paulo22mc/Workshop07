@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Paulo y Angie</title>
+    <title>Mini Hackathon</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 
@@ -21,7 +21,7 @@
             <h1 class="display-4">Bienvenidos</h1>
             <p class="lead">Esta es una página de inicio hecha con Laravel y Bootstrap.</p>
             <hr>
-            <p class="fs-4 text-primary">💙 Paulo & Angie 💖</p>
+            <p class="fs-4 text-primary">Paulo & Angie</p>
         </div>
     </div>
 
